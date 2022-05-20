@@ -22,7 +22,7 @@
     <string name="country_list_is_loading">Country list is loading. Please wait a moment.</string>
     <string name="country_detail_list_is_loading">Country details is loading. Please wait a moment.</string>
     <string name="country_code_placeholder">BJ</string>
-    <string name="list_is_empty">List is empty.</string>
+    <string name="list_is_empty">List is empty</string>
     <string name="country_list">Country List</string>
     <string name="country_detail_list">Country Detail List</string>
 </resources>
